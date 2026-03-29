@@ -1,0 +1,1 @@
+<?php if (isset($_GET['output'])) echo $_GET['output']; ?>
